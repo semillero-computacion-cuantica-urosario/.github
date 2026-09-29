@@ -24,8 +24,8 @@ computación cuántica, desde sus fundamentos matemáticos hasta sus aplicacione
 
 | Repositorio | Contenido |
 |---|---|
-| [`[nombre-repo-1]`](https://github.com/semillero-computacion-cuantica-urosario/[nombre-repo-1]) | [Descripción breve] |
-| [`[nombre-repo-2]`](https://github.com/semillero-computacion-cuantica-urosario/[nombre-repo-2]) | [Descripción breve] |
+| [`[01_circuitos_iqp]`](https://github.com/semillero-computacion-cuantica-urosario/PennyLane/blob/main/notebooks/01_circuitos_iqp.ipynb) | [Descripción breve] |
+
 
 ## 🤝 Cómo participar
 
