@@ -30,7 +30,7 @@ computación cuántica, desde sus fundamentos matemáticos hasta sus aplicacione
 
 ## 🤝 Cómo participar
 
-El semillero está abierto a estudiantes de la Universidad del Rosario. Nos reunimos los lunes a las 4:00 pm en el Laboratorio Bardeen del Edificio El Tiempo.
+El semillero está abierto a estudiantes de la Universidad del Rosario, nos reunimos los lunes a las 4:00 pm.
 
 Si quieres unirte, escribe a nicolasg.avilan@urosario.edu.co con tu nombre, programa y usuario de GitHub.
 
