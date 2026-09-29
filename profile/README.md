@@ -24,6 +24,7 @@ computación cuántica, desde sus fundamentos matemáticos hasta sus aplicacione
 
 | Repositorio | Contenido |
 |---|---|
+| [`Qiskit`](https://github.com/semillero-computacion-cuantica-urosario/Qiskit) | Notebooks para aprender computación cuántica con Qiskit: circuitos, algoritmos. |
 | [`PennyLane`](https://github.com/semillero-computacion-cuantica-urosario/PennyLane) | Notebooks para aprender computación cuántica con PennyLane: circuitos IQP, simulación y entrenamiento con JAX |
 
 
