@@ -1,6 +1,6 @@
 # Semillero en Computación Cuántica · Universidad del Rosario
 
-Bienvenidos al espacio de trabajo del **Semillero en Computación Cuántica** del programa de Matemáticas Aplicadas y Ciencias de la Computación de la Universidad del Rosario (Bogotá, Colombia).
+Bienvenidos al espacio de trabajo del [**Semillero en Computación Cuántica**](https://pure.urosario.edu.co/es/organisations/research-incubator-quantum-computation) del programa de [Matemáticas Aplicadas y Ciencias de la Computación](https://urosario.edu.co/matematicas-aplicadas-y-ciencias-de-la-computacion-macc) de la Universidad del Rosario (Bogotá, Colombia).
 
 Somos un grupo de estudiantes y profesores interesados en entender, simular y aplicar la
 computación cuántica, desde sus fundamentos matemáticos hasta sus aplicaciones.
