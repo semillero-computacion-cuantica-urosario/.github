@@ -16,7 +16,7 @@ computación cuántica, desde sus fundamentos matemáticos hasta sus aplicacione
 
 - **Fundamentos:** qubits, compuertas, entrelazamiento y medición.
 - **Algoritmos cuánticos:** Deutsch–Jozsa, Grover, Shor, QFT y algoritmos variacionales.
-- **Simulación:** sistemas cuánticos abiertos y cerrados con Qiskit y QuTiP.
+- **Simulación:** sistemas cuánticos abiertos y cerrados con Qiskit, QuTiP y PennyLane.
 - **Aprendizaje automático cuántico** y optimización.
 - **Criptografía y seguridad** en la era cuántica.
 
@@ -43,7 +43,7 @@ Si quieres unirte, escribe a nicolasg.avilan@urosario.edu.co con tu nombre, prog
 ## 👥 Coordinación
 
 - **Nicolás Avilán** — Profesor Principal de Carrera
-- Matemáticas Aplicadas y Cienicas de la Computación (MACC)
+- Matemáticas Aplicadas y Ciencias de la Computación (MACC)
 - Escuela de Ciencias e Ingeniería - Universidad del Rosario
 
 ---
