@@ -24,7 +24,7 @@ computación cuántica, desde sus fundamentos matemáticos hasta sus aplicacione
 
 | Repositorio | Contenido |
 |---|---|
-| [`[01_circuitos_iqp]`](https://github.com/semillero-computacion-cuantica-urosario/PennyLane/blob/main/notebooks/01_circuitos_iqp.ipynb) | [Descripción breve] |
+| [`PennyLane`](https://github.com/semillero-computacion-cuantica-urosario/PennyLane) | Notebooks para aprender computación cuántica con PennyLane: circuitos IQP, simulación y entrenamiento con JAX |
 
 
 ## 🤝 Cómo participar
