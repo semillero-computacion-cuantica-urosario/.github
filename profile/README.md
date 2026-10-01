@@ -41,6 +41,14 @@ Si quieres unirte, escribe a nicolasg.avilan@urosario.edu.co con tu nombre, prog
 3. Abre un *pull request* describiendo qué hiciste y por qué.
 4. Espera la revisión de un monitor o profesor antes de fusionar.
 
+## 🧑‍🎓 Participantes
+
+| | Nombre | GitHub | Programa  |
+|---|---|---|---|
+| <img src="https://github.com/johnoverflow.png?size=60" width="40"> | John Sebastián Valbuena Soto | [@johnoverflow](https://github.com/johnoverflow) | MACC |
+| <img src="https://github.com/zair658.png?size=60" width="40"> | Zair Mauricio Trujillo Aranda | [@zair658](https://github.com/zair658) | MACC |
+
+
 ## 👥 Coordinación
 
 - **Nicolás Avilán** — Profesor Principal de Carrera
