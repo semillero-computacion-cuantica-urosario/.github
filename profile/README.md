@@ -45,6 +45,8 @@ Si quieres unirte, escribe a nicolasg.avilan@urosario.edu.co con tu nombre, prog
 
 | | Nombre | GitHub | Programa  |
 |:---:|---|---|:---:|
+| <img src="https://github.com/Tdristados.png?size=60" width="40"> | Andres Leonardo Manrique Hernandez| [@Tdristados](https://github.com/Tdristados) | MACC |
+| <img src="https://github.com/SergioAnGuevara.png?size=60" width="40"> | Sergio Andres Guevara Ramirez | [@SergioAnGuevara](https://github.com/SergioAnGuevara) | MACC |
 | <img src="https://github.com/johnoverflow.png?size=60" width="40"> | John Sebastián Valbuena Soto | [@johnoverflow](https://github.com/johnoverflow) | MACC |
 | <img src="https://github.com/zair658.png?size=60" width="40"> | Zair Mauricio Trujillo Aranda | [@zair658](https://github.com/zair658) | MACC |
 | <img src="https://github.com/mcuervor1-beep.png?size=60" width="40"> | Manuela Cuervo Rodriguez | [@mcuervor1-beep](https://github.com/mcuervor1-beep) | Maestría MACC |
